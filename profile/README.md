@@ -51,6 +51,11 @@ Get the latest version of Mac Cleaner for macOS:
 
 ---
 
+## Preview
+
+![preview1](https://nektony.com/wp-content/uploads/2024/09/3-Disk-space-analyzing.png.webp)
+![preview2](https://nektony.com/wp-content/uploads/2024/09/2-Performance-boost.png.webp)
+
 ## 🛠️ Usage
 
 1. **Scan Your Mac**: Open Mac Cleaner and click "Scan" to analyze your system.
